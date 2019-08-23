@@ -115,3 +115,34 @@ li {
 span {
   color: red;
 }
+
+input {
+	font-size: 1em;
+	font-weight: 500;
+	padding: .8em;
+	background: #e9f6fb;
+	border: 2px solid #6F9DDC;
+	border-radius: 3px;
+	outline: none;
+}
+
+input:focus {
+	background: #fff;
+	border-color: #5e97b0;
+	transition: border-color .4s, background-color .4s;
+}
+
+button {
+	color: #fff;
+	padding: .55em 1.25em;
+	background: #083f57;
+	margin: 1.25em 0 .5em;
+	cursor: pointer;
+	border: 2px solid black;
+	border-radius: 4px;
+	transition: all 0.5s;
+}
+
+.calculate {
+    text-align-last: center;
+}
