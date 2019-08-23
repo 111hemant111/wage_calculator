@@ -1,2 +1,3 @@
-# wage_calculator
- Very amateur, under complete overhaul.
+# Wage Calculator
+ ## Status
+ Under Development. In a very amateur state.
